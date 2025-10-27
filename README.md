@@ -18,7 +18,7 @@ Acredito que **a prática leva ao conhecimento**, e busco constantemente aprimor
 | 💼 Projeto | 📄 Descrição | 🔗 Link |
 |-------------|--------------|--------|
 | 🧾 **Empreenda Fácil** | Sistema moderno para gestão de microempreendedores. | [Acessar projeto](https://meunegocio.42web.io/empreendafacil/sistema) |
-| 🌾 **Empreenda Fácil MarketPlace** | MarketPlace. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/sistema) 
+| 🌾 **Empreenda Fácil MarketPlace** | MarketPlace. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/loja) 
 | 🗳️ **Urna Eletrônica Simulada** | Simulador interativo criado para fins educacionais. | [Explorar](https://github.com/seuusuario/urna-simulada) |
 
 </div>
