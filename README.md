@@ -18,7 +18,7 @@ Acredito que **a prática leva ao conhecimento**, e busco constantemente aprimor
 | 💼 Projeto | 📄 Descrição | 🔗 Link |
 |-------------|--------------|--------|
 | 🧾 **Empreenda Fácil** | Sistema moderno para gestão de microempreendedores. | [Acessar projeto](https://meunegocio.42web.io/empreendafacil/sistema) |
-| 🌾 **Empreenda Fácil MarketPlace** | MarketPlace. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/loja) 
+| 🌾 **Empreenda Fácil MarketPlace** | Plataforma de vendas para empreendedores locais. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/loja) |
 | 🗳️ **Agro Fácil** | Sistema de gestão agrícola integrada. | [Explorar](https://agrofacil.42web.io/login.php) |
 
 </div>
@@ -38,8 +38,8 @@ Acredito que **a prática leva ao conhecimento**, e busco constantemente aprimor
 
 ### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeovaniSilva&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaniSilva&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -47,10 +47,12 @@ Acredito que **a prática leva ao conhecimento**, e busco constantemente aprimor
 ### 📫 Contato
 <p align="center">
   🌐 <a href="https://gssdigital.com.br">gssdigital.com.br</a> •  
-  💼 <a href="https://linkedin.com/in/seulinkedin">LinkedIn</a> •  
+  💼 <a href="https://linkedin.com/in/geovanisilva">LinkedIn</a> •  
   💬 WhatsApp: <a href="https://wa.me/5544998077649">Clique aqui</a>
 </p>
 
 ---
 
-⭐ *“A prática leva ao conhecimento — e o conhecimento gera resultados.”*
+<p align="center">
+  ⭐ <em>“A prática leva ao conhecimento — e o conhecimento gera resultados.”</em>
+</p>
