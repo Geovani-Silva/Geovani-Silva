@@ -24,8 +24,36 @@ Acredito que **a prática leva ao conhecimento — e o conhecimento gera resulta
 | 💼 Projeto | 📄 Descrição | 🔗 Link |
 |-------------|--------------|--------|
 | 🧾 **Empreenda Fácil** | Sistema moderno para gestão de microempreendedores. | [Acessar projeto](https://meunegocio.42web.io/empreendafacil/sistema) |
-| 🌾 **MarketPlace Empreenda Fácil** | Plataforma de vendas e oportunidades para empreendedores locais. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/loja) |
-| 🗳️ **Agro Fácil** | Sistema de gestão agrícola integrada e controle de produção. | [Explorar](https://agrofacil.42web.io/login.php) |
+| 🛒 **MarketPlace Empreenda Fácil** | Plataforma completa para vendas e oportunidades voltada a empreendedores locais, promovendo negócios e conexões. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/loja) |
+| 🌾 **Agro Fácil** | Sistema de gestão agrícola integrada e controle de produção voltado ao agronegócio. | [Explorar](https://agrofacil.42web.io/login.php) |
+| 🚗 **Boxcar** | Startup de mobilidade inteligente que transforma carros em canais de divulgação e vendas. | [Visitar site](https://boxcarmga.com.br) |
+
+---
+
+### 🚗 Sobre o Projeto **Boxcar**
+
+**Transformamos carros em canais inteligentes de divulgação.**  
+A **Boxcar** promove circulação de renda, fortalece negócios e oferece um modelo sustentável, justo e viável.
+
+#### 💡 Quem Somos — Mobilidade com Propósito
+Somos uma startup com um modelo de negócios inovador: **transformamos carros de motoristas de aplicativo em canais inteligentes de divulgação e vendas.**  
+Atuamos com foco no resultado — através de **displays instalados nos veículos**, geramos **ofertas qualificadas e segmentadas**, integradas a uma **central de negócios otimizada** para realizar vendas com alta performance.
+
+Nosso propósito é **gerar resultado para empresas**, **renda extra para motoristas parceiros** e **acesso simplificado para quem consome.**  
+Mais do que mídia, a Boxcar representa **mobilidade com propósito.**
+
+---
+
+### 🔧 Nossos Serviços
+- 🎯 **Divulgação Segmentada:** publicidade em displays de veículos, com alcance estratégico.  
+- 🏢 **Central de Vendas:** equipe dedicada para potencializar resultados.  
+- 📈 **Resultados Comprovados:** crescimento mensurável e sustentável.  
+- 🤝 **Parcerias Comerciais:** oportunidades para motoristas, empresas e anunciantes.
+
+📞 **Contato:**  
+(44) 99839-1594  
+📧 parceiro@boxcarmga.com.br  
+🌐 [boxcarmga.com.br](https://boxcarmga.com.br)
 
 ---
 
@@ -57,6 +85,10 @@ Acredito que **a prática leva ao conhecimento — e o conhecimento gera resulta
 </p>
 
 ---
+
+<p align="center">
+  ⭐ <em>“A prática leva ao conhecimento — e o conhecimento gera resultados.”</em>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:1E40AF&height=120&section=footer"/>
