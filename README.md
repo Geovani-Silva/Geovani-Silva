@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4C1D95&height=200&section=header&text=Geovani%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:3B82F6&height=200&section=header&text=Geovani%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <h2 align="center">💻 Analista e Desenvolvedor de Sistemas</h2>
@@ -37,12 +37,12 @@ Atuar na área de **Tecnologia da Informação**, com ênfase em **desenvolvimen
 
 ### 🧠 Competências Técnicas
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00758F"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=E91E63"/>
+  <img src="https://img.shields.io/badge/HTML5-1E40AF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-0EA5E9?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
@@ -56,8 +56,8 @@ Atuar na área de **Tecnologia da Informação**, com ênfase em **desenvolvimen
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSSADS&show_icons=true&theme=radical&hide_border=true" height="160em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSSADS&layout=compact&theme=radical&hide_border=true" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GSSADS&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSSADS&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
 </p>
 
 ---
@@ -79,5 +79,5 @@ Atuar na área de **Tecnologia da Informação**, com ênfase em **desenvolvimen
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4C1D95&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E40AF&height=120&section=footer"/>
 </p>
