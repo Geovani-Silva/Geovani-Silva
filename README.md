@@ -1,56 +1,42 @@
-<!-- Banner superior -->
+<!-- Banner de capa -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:3B82F6&height=200&section=header&text=Geovani%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:10B981&height=200&section=header&text=Geovani%20Silva&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <h2 align="center">💻 Analista e Desenvolvedor de Sistemas</h2>
 
 <p align="center">
-  <em>Focado em soluções práticas, tecnologia moderna e desenvolvimento web.</em>
+  <em>Focado em soluções práticas, tecnologia moderna e experiências digitais eficientes.</em>
 </p>
 
 ---
 
-### 🎯 Objetivo
-Atuar na área de **Tecnologia da Informação**, com ênfase em **desenvolvimento de sistemas, suporte técnico ou infraestrutura**, contribuindo com soluções **eficientes, inovadoras** e alinhadas às **necessidades do mercado**.
+### 👨‍💼 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por criar soluções que unem eficiência e tecnologia.  
+Tenho experiência com **desenvolvimento web**, **sistemas personalizados**, e **automação de processos**.  
+Acredito que **a prática leva ao conhecimento — e o conhecimento gera resultados.**
 
 ---
 
-### 🎓 Formação Acadêmica
-📘 **Análise e Desenvolvimento de Sistemas**  
-<em>Senac - Maringá</em>  
-
-💡 Participação em projetos de tecnologia e desenvolvimento com foco prático e aplicado à realidade do mercado.
-
----
-
-### 🚀 Projetos em Destaque
+### 🚀 Projetos em destaque
 
 | 💼 Projeto | 📄 Descrição | 🔗 Link |
 |-------------|--------------|--------|
-| 🧾 **Sistema de Login com Dashboard** | Aplicação web com autenticação de usuários, painel administrativo e integração com banco de dados (PHP + SQL). | — |
-| 🍕 **API RESTful de Pizzaria (Java + Spring Boot)** | Backend com endpoints para cadastro e listagem de sabores. | — |
-| 🌐 **Landing Page Institucional (HTML, CSS, JS)** | Site moderno, responsivo e com foco em apresentação profissional. | — |
-| 🌾 **Sites para o Setor Agro (HTML, CSS)** | Desenvolvimento de páginas informativas voltadas à identidade local e regional. | — |
+| 🧾 **Empreenda Fácil** | Sistema moderno para gestão de microempreendedores. | [Acessar projeto](https://meunegocio.42web.io/empreendafacil/sistema) |
+| 🌾 **MarketPlace Empreenda Fácil** | Plataforma de vendas e oportunidades para empreendedores locais. | [Ver projeto](https://meunegocio.42web.io/empreendafacil/loja) |
+| 🗳️ **Agro Fácil** | Sistema de gestão agrícola integrada e controle de produção. | [Explorar](https://agrofacil.42web.io/login.php) |
 
 ---
 
-### 🧠 Competências Técnicas
+### 🧠 Tecnologias que domino
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-1E40AF?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-0EA5E9?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
----
-
-### 🧩 Experiência e Prática
-💼 Desenvolvimento de soluções para pequenas empresas, com foco em **sistemas comerciais (PDVs)**.  
-🧰 Participação em **projetos acadêmicos e freelances**, com aplicação prática de conceitos de engenharia de software e UX.  
-⚙️ Experiência em **hospedagem web, automação de processos e integração de sistemas**.
 
 ---
 
@@ -62,22 +48,16 @@ Atuar na área de **Tecnologia da Informação**, com ênfase em **desenvolvimen
 
 ---
 
-### 🌐 Contato
+### 📫 Onde me encontrar
+
 <p align="center">
-  📍 Maringá - PR  
-  📧 <a href="mailto:geovani.silva@edu.unipar.br">geovani.silva@edu.unipar.br</a>  
-  💬 <a href="https://wa.me/5544998077649">WhatsApp: (44) 99807-7949</a>  
-  💼 <a href="https://linkedin.com/in/geovanisilva">LinkedIn</a> •  
-  🌍 <a href="https://gssdigital.com.br">gssdigital.com.br</a> •  
-  📰 <a href="https://geovanidossantossilva.blogspot.com/">Blog pessoal</a>
+  🌐 <a href="https://gssdigital.com.br" target="_blank">gssdigital.com.br</a> •  
+  💼 <a href="https://linkedin.com/in/geovanisilva" target="_blank">LinkedIn</a> •  
+  💬 <a href="https://wa.me/5544998077649" target="_blank">WhatsApp</a>  
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <em>“A prática leva ao conhecimento — e o conhecimento gera resultados.”</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E40AF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:1E40AF&height=120&section=footer"/>
 </p>
