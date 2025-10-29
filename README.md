@@ -52,8 +52,8 @@ Acredito que **a prática leva ao conhecimento — e o conhecimento gera resulta
 ### 📫 Onde me encontrar
 
 <p align="center">
-  🌐 <a href="https://gssdigital.com.br" target="_blank">gssdigital.com.br</a> •  
-  💼 <a href="https://linkedin.com/in/geovanisilva" target="_blank">LinkedIn</a> •  
+  🌐 <a href="#" target="_blank">gssdigital.com.br</a> •  
+  💼 <a href="https://www.linkedin.com/in/geovaniss/" target="_blank">LinkedIn</a> •  
   💬 <a href="https://wa.me/5544998077649" target="_blank">WhatsApp</a>  
 </p>
 
